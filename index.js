@@ -14,3 +14,4 @@ while (i < facts.length) {
 }
 return newArr
 }
+
