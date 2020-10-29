@@ -15,3 +15,7 @@ while (i < facts.length) {
 }
 return newArr
 }
+
+function theBeatlesPlay() {
+  
+}
