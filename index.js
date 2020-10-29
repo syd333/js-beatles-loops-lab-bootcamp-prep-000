@@ -21,6 +21,7 @@ var result = []
 do {
 result.push('I love the Beatles!')
 number++
+return result
 }
 while (number < 15)
 }
