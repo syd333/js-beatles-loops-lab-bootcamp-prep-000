@@ -21,6 +21,7 @@ var result = []
 var i = 0;
 do {
 
+i++
 }
-while ()
+while (i < n)
 }
