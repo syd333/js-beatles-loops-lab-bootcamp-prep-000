@@ -21,7 +21,7 @@ var result = []
 var i = 0;
 do {
 
-i++
+number++
 }
 while (i < n)
 }
