@@ -23,5 +23,5 @@ do {
 
 number++
 }
-while (i < n)
+while (number < 15)
 }
