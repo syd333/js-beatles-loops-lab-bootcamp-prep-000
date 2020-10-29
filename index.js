@@ -17,5 +17,6 @@ return newArr
 }
 
 function iLoveTheBeatles() {
+var result = []
 
 }
